@@ -105,7 +105,7 @@ function App() {
           <option value="tesla">tesla</option>
           <option value="Honda">Honda</option>
         </select>
-        {/* /Added some logic  */}
+        {/* /Added some logic and data  */}
         <input />
       </form>
     </div>
